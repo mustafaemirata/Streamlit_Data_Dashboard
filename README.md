@@ -1,6 +1,11 @@
 # Streamlit Veri Panosu
 
 Bu depo, Streamlit kullanarak oluşturulmuş etkileşimli bir veri panosu uygulamasını içermektedir. Çeşitli veri görselleştirmeleri ve analiz araçları sunarak verilerinizi anlamanıza yardımcı olur.
+## Canlı Demo
+
+Uygulamayı çalışır halde görmek isterseniz, aşağıdaki linkten canlı demoyu inceleyebilirsiniz:
+
+[Streamlit Veri Panosu Canlı Demo](https://datadashboardanalyse.streamlit.app/)
 
 ## Giriş
 CSV dosyası ekleyerek verinizin ilk 5 satırından istediğiniz filtrelemeleri yapıp dinamik bir şekilde grafik çizin!
