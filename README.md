@@ -3,10 +3,12 @@
 Bu depo, Streamlit kullanarak oluşturulmuş etkileşimli bir veri panosu uygulamasını içermektedir. Çeşitli veri görselleştirmeleri ve analiz araçları sunarak verilerinizi anlamanıza yardımcı olur.
 
 ## Giriş
-
+CSV dosyası ekleyerek verinizin ilk 5 satırından istediğiniz filtrelemeleri yapıp dinamik bir şekilde grafik çizin!
 Uygulamanın ana ekranının bir önizlemesi aşağıdadır:
 
 [![Giriş Ekranı](giris.png)](https://github.com/mustafaemirata/Streamlit_Data_Dashboard/blob/master/giris.png)
+[![Grafik Ekranı](giris.png)](https://github.com/mustafaemirata/Streamlit_Data_Dashboard/blob/master/grafik.png)
+
 
 ## Kurulum
 
