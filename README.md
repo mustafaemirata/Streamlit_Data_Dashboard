@@ -7,7 +7,7 @@ CSV dosyası ekleyerek verinizin ilk 5 satırından istediğiniz filtrelemeleri 
 Uygulamanın ana ekranının bir önizlemesi aşağıdadır:
 
 [![Giriş Ekranı](giris.png)](https://github.com/mustafaemirata/Streamlit_Data_Dashboard/blob/master/giris.png)
-[![Grafik Ekranı](giris.png)](https://github.com/mustafaemirata/Streamlit_Data_Dashboard/blob/master/grafik.png)
+[![Grafik Ekranı](grafik.png)](https://github.com/mustafaemirata/Streamlit_Data_Dashboard/blob/master/grafik.png)
 
 
 ## Kurulum
